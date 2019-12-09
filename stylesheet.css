@@ -162,8 +162,8 @@ figcaption {
 }
 
 .profile-pic {
-  width: 20%;
-  height: 20%;
+  width: 40%;
+  height: 40%;
   border-radius: 10%;
 }
 
@@ -232,6 +232,12 @@ figcaption {
 
 	.tagline {
 		font-size: 1.4em;
+	}
+
+	.profile-pic {
+	  width: 20%;
+	  height: 20%;
+	  border-radius: 10%;
 	}
 
 	/* ---- Float clearfix ---- */
